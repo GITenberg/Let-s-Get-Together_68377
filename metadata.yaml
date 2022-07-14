@@ -1,0 +1,44 @@
+_repo: Let-s-Get-Together_68377
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Engle, Robert
+    aliases:
+    - Engle, Robert J.
+    - Engle, Robert V.
+    - Engel, Robert V.
+    birthdate: 1928
+    gutenberg_agent_id: '54220'
+    url: http://www.gutenberg.org/2009/agents/54220
+creator:
+  author:
+    agent_name: Asimov, Isaac
+    birthdate: 1920
+    deathdate: 1992
+    gutenberg_agent_id: '35316'
+    url: http://www.gutenberg.org/2009/agents/35316
+    wikipedia: https://en.wikipedia.org/wiki/Isaac_Asimov
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Let%27s_Get_Together_(short_story)'
+gutenberg_issued: '2022-06-22'
+identifiers:
+  gutenberg: '68377'
+language: en
+pgterms:marc905: 20220220055234asimov
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net.
+publication_note: United States :Royal Publications, Inc,1956.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cold War -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Weapons -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Robots -- Fiction'
+- GITenberg
+title: Let's Get Together
+url: http://www.gutenberg.org/ebooks/68377
