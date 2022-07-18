@@ -10,6 +10,9 @@ contributor:
     birthdate: 1928
     gutenberg_agent_id: '54220'
     url: http://www.gutenberg.org/2009/agents/54220
+covers:
+- cover_type: archival
+  image_path: 68377-h/images/cover.jpg
 creator:
   author:
     agent_name: Asimov, Isaac
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35316
     wikipedia: https://en.wikipedia.org/wiki/Isaac_Asimov
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Let%27s_Get_Together_(short_story)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68377#Let-s-Get-Together
 gutenberg_issued: '2022-06-22'
 identifiers:
   gutenberg: '68377'
